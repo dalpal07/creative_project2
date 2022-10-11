@@ -1,0 +1,82 @@
+#home-img {
+    width:100%;
+}
+
+.footer {
+    background-color: gray;
+    color: white;
+}
+
+.basic-text {
+    text-align: center;
+    font-family: monospace;
+}
+
+.title-text {
+    font-family: Chalkduster, fantasy !important;
+    font-weight: bold;
+}
+
+#welcome {
+    margin-top: .5em;
+}
+
+.bg-primary {
+    background-color: gray !important;
+}
+
+.white {
+    color:white;
+}
+
+.res-button {
+    margin: 1em;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th {
+    background-color: lightgray;
+    font-weight: bolder;
+}
+
+#class-p {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    max-width: 60em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tourn-div {
+    margin: 2em;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    max-width: 60em;
+    text-align: center;
+}
+
+.tourn-img {
+    width: 100%;
+    max-width: 40em;
+    margin-top:  .5em;
+    margin-bottom: .5em;
+}
+
+/* Desktop Styles */
+@media only screen and (min-width: 961px) {
+
+    #class-table {
+        margin-left: auto;
+        margin-right: auto;
+        min-width: 50em;
+    }
+    
+    #intro-p {
+        margin-left: 10em;
+        margin-right: 10em;
+    }
+    
+}
