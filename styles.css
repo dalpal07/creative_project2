@@ -65,6 +65,10 @@ th {
     margin-bottom: .5em;
 }
 
+#git {
+    color: white;
+}
+
 /* Desktop Styles */
 @media only screen and (min-width: 961px) {
 
